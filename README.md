@@ -1,0 +1,1 @@
+# ha_rtl_433_discover
