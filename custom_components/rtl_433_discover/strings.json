@@ -1,0 +1,20 @@
+{
+    "config": {
+        "step": {
+            "user": {
+                "title": "Configure rtl_433 Discovery",
+                "description": "Please enter the MQTT topic to listen to.",
+                "data": {
+                    "topic_prefix": "Topic Prefix (e.g. rtl_433/+/events)"
+                }
+            }
+        },
+        "error": {
+            "cannot_connect": "Failed to connect",
+            "unknown": "Unexpected error"
+        },
+        "abort": {
+            "already_configured": "Device is already configured"
+        }
+    }
+}

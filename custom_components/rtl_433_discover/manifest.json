@@ -1,0 +1,12 @@
+{
+  "domain": "rtl_433_discover",
+  "name": "rtl_433 Discovery",
+  "codeowners": [],
+  "config_flow": true,
+  "dependencies": ["mqtt"],
+  "documentation": "https://github.com/dewgenenny/ha_rtl_433_discover",
+  "iot_class": "local_push",
+  "issue_tracker": "https://github.com/dewgenenny/ha_rtl_433_discover/issues",
+  "requirements": [],
+  "version": "0.0.1"
+}
